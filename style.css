@@ -1,0 +1,18 @@
+#cln-items{
+  padding : 30px 30px;
+  background-color: rgb(204, 203, 203);
+  margin-top: 5px;
+  width: 50px;
+}
+#cln-items:hover{
+  background-color: aquamarine;
+  border:0px solid black;
+}
+
+#container{
+  background-color: beige;
+  padding:10px;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
